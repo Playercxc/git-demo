@@ -4,7 +4,7 @@ sqoop=/usr/local/service/sqoop/bin/sqoop-import
 #sqoop=/usr/hdp/2.6.5.0-292/sqoop/bin/sqoop-import
 hive=/usr/local/service/hive/bin/hive
 
-
+#
 
 import_data(){
 $sqoop \
